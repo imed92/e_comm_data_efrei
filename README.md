@@ -1,5 +1,7 @@
 # Setup de l'application
-
+D'abord télécharger le repository de github.
+Puis Dézipper le fichier.
+Et enfin ouvrir le dossier avec VSCode.
 ## Frontend
 
 Rien à faire, tout est dejà bon
@@ -19,3 +21,5 @@ npm install
 ```bash
 node server.js
 ```
+5. Ouvrir le fichier `index.html` qui est dans le dossier `frontend/`
+![alt text](image-1.png)
